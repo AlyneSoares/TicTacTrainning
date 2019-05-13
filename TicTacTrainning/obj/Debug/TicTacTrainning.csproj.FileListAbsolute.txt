@@ -1,0 +1,15 @@
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\TicTacTrainning.csprojAssemblyReference.cache
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\App.g.cs
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\TicTacTrainning_MarkupCompile.cache
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\bin\Debug\TicTacTrainning.exe.config
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\bin\Debug\TicTacTrainning.exe
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\bin\Debug\TicTacTrainning.pdb
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\MainWindow.g.cs
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\TicTacTrainning_MarkupCompile.lref
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\MainWindow.baml
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\TicTacTrainning.g.resources
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\TicTacTrainning.Properties.Resources.resources
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\TicTacTrainning.csproj.GenerateResource.cache
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\TicTacTrainning.csproj.CoreCompileInputs.cache
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\TicTacTrainning.exe
+C:\Users\Alyne_Soares\source\repos\TicTacTrainning\TicTacTrainning\obj\Debug\TicTacTrainning.pdb
